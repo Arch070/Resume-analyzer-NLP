@@ -1,0 +1,15 @@
+# Data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+wordcloud>=1.8.2.2
+
+# Large Language Models (local inference)
+ctransformers>=0.3.1
+
